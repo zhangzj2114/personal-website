@@ -32,7 +32,7 @@ education:
       year: ""
     - course: "MEng "
       institution: Jilin University
-      year: 2022
+      year: 2021
     - course: "BSc "
       institution: Jilin University
       year: 2018
