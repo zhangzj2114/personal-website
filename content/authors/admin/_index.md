@@ -3,28 +3,25 @@ title: ZHANG Zijian
 role: PhD student
 bio: My research interests include urban computing and spatio-temporal data mining.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Urban Computing; Spatio-temporal Data Mining
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: "#"
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: "#"
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: "#"
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Jilin University
+    url: https://www.jlu.edu.cn/
+  - name: City University of Hong Kong
+    url: https://www.cityu.edu.hk/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -40,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a 'JLU-CityU' joint PhD student, under the supervision of Prof. Hongwei Zhao and Prof. Xiangyu Zhao. Before that, I received my Master's and Bachelor's degrees at Jilin University.
+I am a 'JLU-CityU' joint PhD student under the supervision of Prof. Hongwei Zhao and Prof. Xiangyu Zhao. Before that, I received my Master's and Bachelor's degrees at Jilin University in 2018 and 2014, respectively.
 
 I﻿ am optimistic and vigorous. I like singing and hiking in my spare time.
 
