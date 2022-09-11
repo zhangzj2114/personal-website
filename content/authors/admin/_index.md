@@ -40,7 +40,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD student in the College of Computer Science and Technology, Jilin University and School of Data Science, City University of Hong Kong. I am supervised by Prof. Hongwei Zhao and Prof. Xiangyu Zhao. Before that, I received my Master's and Bachelor's degrees at Jilin University.
+I am a 'JLU-CityU' joint PhD student, under the supervision of Prof. Hongwei Zhao and Prof. Xiangyu Zhao. Before that, I received my Master's and Bachelor's degrees at Jilin University.
+
+I﻿ am optimistic and vigorous. I like singing and hiking in my spare time.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
