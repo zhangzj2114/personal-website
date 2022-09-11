@@ -3,7 +3,7 @@ title: ZHANG Zijian
 role: PhD student
 bio: My research interests include urban computing and spatio-temporal data mining.
 interests:
-  - Urban Computing<br />Spatio-temporal Data Mining
+  - Urban Computing<br /> Spatio-temporal Data Mining
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,16 +24,19 @@ organizations:
     url: https://www.cityu.edu.hk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD
+      institution: Jilin University
+      year: ""
+    - course: PhD
+      institution: City University of Hong Kong
+      year: ""
+    - course: "MEng "
+      institution: Jilin University
+      year: ""
+    - course: "BSc "
+      institution: Jilin University
+      year: ""
+email: zhangzj2114@mails.jlu.edu.cn
 superuser: true
 highlight_name: true
 ---
