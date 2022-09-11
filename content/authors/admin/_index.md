@@ -32,10 +32,10 @@ education:
       year: ""
     - course: "MEng "
       institution: Jilin University
-      year: ""
+      year: 2022
     - course: "BSc "
       institution: Jilin University
-      year: ""
+      year: 2018
 email: zhangzj2114@mails.jlu.edu.cn
 superuser: true
 highlight_name: true
