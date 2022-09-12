@@ -25,16 +25,16 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zhangzj2114@mails.jlu.edu.cn
+  phone: +86 157 5431 0579
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
+    street: Room A217, Computer Building, Jilin Universit
+    city: Changchun
+    region: Gaoxin
+    postcode: '130012'
+    country: China
+    country_code: CN
+<!--   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -50,7 +50,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://zoom.com' -->
 
 design:
   columns: '2'
