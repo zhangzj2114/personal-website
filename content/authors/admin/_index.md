@@ -46,4 +46,4 @@ I am a 'JLU-CityU' joint PhD student under the supervision of Prof. Hongwei Zhao
 I﻿ am optimistic and vigorous. I like singing and hiking in my spare time.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
