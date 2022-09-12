@@ -6,4 +6,7 @@ weight: 20
 title: ZHANG Zijian (张子健)
 active: true
 author: admin
+design:
+  background:
+    image: 张子健2021.jpg
 ---
