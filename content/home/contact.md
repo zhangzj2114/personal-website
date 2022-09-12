@@ -2,7 +2,7 @@
 widget: contact
 widget_id: Contact
 headless: true
-weight: 90
+weight: 140
 title: Contact
 subtitle: null
 content:
