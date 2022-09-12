@@ -30,18 +30,18 @@ content:
   address:
     street: Room A217, Computer Building, Jilin Universit
     city: Changchun
-    region: Gaoxin
+    region: 
     postcode: '130012'
     country: China
     country_code: CN
-  coordinates:
+<!--   coordinates:
     latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    longitude: '-122.1697' -->
+<!--   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url: 'https://calendly.com' -->
   contact_links:
     - icon: twitter
       icon_pack: fab
@@ -56,18 +56,3 @@ design:
   columns: '2'
 ---
 
-<!--   # Contact details (edit or remove options as required)
-  email: zhangzj2114@mails.jlu.edu.cn
-  phone: +86 157 5431 0579
-  address:
-    street: Room A217, Computer Building, Jilin Universit
-    city: Changchun
-    region: Gaoxin
-    postcode: '130012'
-    country: China
-    country_code: CN
-     -->
-<!-- design:
-  columns: '2'
----
- -->
