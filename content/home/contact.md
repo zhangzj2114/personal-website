@@ -12,13 +12,13 @@ content:
       ? id
     netlify:
       captcha: false
-  autolink: <!-- true-->
+  autolink: true
   office_hours:
-<!--     - Monday 10:00 to 13:00 -->
-<!--     - Wednesday 09:00 to 10:00 -->
+    - Monday 10:00 to 13:00
+    - Wednesday 09:00 to 10:00
   phone: +86 157 5431 0579
-  appointment_url: <!-- https://calendly.com -->
-  directions: <!-- Enter Building 1 and take the stairs to Office 200 on Floor 2-->
+  appointment_url: https://calendly.com
+  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   address:
     street: Room A217, Computer Building, Jilin Universit
     city: Changchun
