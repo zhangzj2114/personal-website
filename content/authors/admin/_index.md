@@ -1,7 +1,7 @@
 ---
 title: ZHANG Zijian
 role: PhD student
-avatar_filename: avatar.jpg
+avatar_filename: assets/media/avatar.jpg
 bio: My research interests include urban computing and spatio-temporal data mining.
 interests:
   - Urban Computing
