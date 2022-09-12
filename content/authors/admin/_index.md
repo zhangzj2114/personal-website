@@ -42,7 +42,7 @@ email: zhangzj2114@mails.jlu.edu.cn
 superuser: true
 highlight_name: true
 ---
-I am a 'JLU-CityU' joint PhD student under the supervision of Prof. Hongwei Zhao and Prof. Xiangyu Zhao. Before that, I received my Master's and Bachelor's degrees at Jilin University in 2018 and 2014, respectively.
+I am a 'JLU-CityU' joint PhD student under the supervision of Prof. Hongwei Zhao and Prof. Xiangyu Zhao. Before that, I received my Master's and Bachelor's degrees at Jilin University in 2021 and 2018, respectively.
 
 I﻿ am optimistic and vigorous. I like singing and hiking in my spare time. 
 
