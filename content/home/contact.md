@@ -1,58 +1,44 @@
 ---
-# An instance of the Contact widget.
 widget: contact
-
-# This file represents a page section.
+widget_id: Contact
 headless: true
-
-# Order that this section appears on the page.
-weight: 130
-
+weight: 90
 title: Contact
-subtitle:
-
+subtitle: null
 content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
   form:
     provider: netlify
     formspree:
-      id:
+      ? id
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-
-  # Contact details (edit or remove options as required)
-  email: zhangzj2114@mails.jlu.edu.cn
+  autolink: true
+  office_hours:
+    - Monday 10:00 to 13:00
+    - Wednesday 09:00 to 10:00
   phone: +86 157 5431 0579
+  appointment_url: https://calendly.com
+  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   address:
     street: Room A217, Computer Building, Jilin Universit
     city: Changchun
-    region: 
-    postcode: '130012'
+    region: null
+    postcode: "130012"
     country: China
     country_code: CN
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: https://twitter.com/Twitter
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
-
+      link: https://zoom.com
+  coordinates:
+    latitude: "37.4275"
+    longitude: "-122.1697"
+  email: zhangzj2114@mails.jlu.edu.cn
 design:
-  columns: '2'
+  columns: "2"
 ---
-
