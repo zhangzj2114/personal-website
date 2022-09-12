@@ -27,10 +27,10 @@ content:
     country: China
     country_code: CN
   contact_links:
-<!--     - icon: twitter
+    - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: https://twitter.com/Twitter -->
+      link: https://twitter.com/Twitter
     - icon: video
       icon_pack: fas
       name: Zoom Me
