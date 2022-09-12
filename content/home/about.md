@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: 张子健2021.jpg
+    image: ""
 ---
