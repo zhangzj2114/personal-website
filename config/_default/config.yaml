@@ -5,6 +5,9 @@
 
 title: ZHANG Zijian # Website name
 baseURL: 'https://example.com/' # Website URL
+author: "ZHANG Zijian"
+description: "ZHANG Zijian's personal website"
+copyright: "ZHANG Zijian"
 
 ############################
 ## LANGUAGE
