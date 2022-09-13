@@ -1,4 +1,5 @@
 ---
+activate: flase
 # An instance of the Contact widget.
 widget: contact
 
