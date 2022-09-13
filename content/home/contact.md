@@ -1,5 +1,4 @@
-zhangzj2114@mails.jlu.edu.cn
-<!-- ---
+---
 widget: contact
 widget_id: Contact
 headless: true
@@ -43,4 +42,4 @@ content:
 design:
   columns: "2"
 ---
- -->
+
