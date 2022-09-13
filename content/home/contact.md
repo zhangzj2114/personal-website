@@ -19,10 +19,10 @@ content:
   email: zhangzj2114@mails.jlu.edu.cn
   phone: +86 157 5431 0579
   contact_links:
-<!--     - icon: twitter
+    - icon: twitter
       icon_pack: fab
       name: Twitter (DMs open)
-      link: 'https://twitter.com/nbballou' -->
+      link: 'https://twitter.com/nbballou'
 
 design:
   columns: '2'
