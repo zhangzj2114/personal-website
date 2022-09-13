@@ -3,11 +3,11 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: ZHANG Zijian # Website name
+title: Zijian Zhang # Website name
 baseURL: 'https://example.com/' # Website URL
-author: "ZHANG Zijian"
-description: "ZHANG Zijian's personal website"
-copyright: "ZHANG Zijian"
+author: "Zijian Zhang"
+description: "Zijian Zhang's personal website"
+copyright: "Zijian Zhang"
 
 ############################
 ## LANGUAGE
