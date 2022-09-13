@@ -8,6 +8,12 @@ subtitle: null
 content:
   form:
     provider: netlify
+    netlify:
+      captcha: false
+
+<!-- content:
+  form:
+    provider: netlify
     formspree:
       ? id
     netlify:
@@ -40,6 +46,6 @@ content:
     longitude: "-122.1697"
   email: zhangzj2114@mails.jlu.edu.cn
 design:
-  columns: "2"
+  columns: "2" -->
 ---
 
