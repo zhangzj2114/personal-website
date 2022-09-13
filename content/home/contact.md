@@ -16,13 +16,13 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: nick.ballou@gmail.com
-  phone: +44 7367 525567
-  contact_links:
+  email: zhangzj2114@mails.jlu.edu.cn
+  phone: +86 157 5431 0579
+<!--   contact_links:
     - icon: twitter
       icon_pack: fab
       name: Twitter (DMs open)
-      link: 'https://twitter.com/nbballou'
+      link: 'https://twitter.com/nbballou' -->
 
 design:
   columns: '2'
