@@ -1,5 +1,5 @@
 ---
-title: ZHANG Zijian
+title: Zijian Zhang
 role: PhD student
 avatar_filename: avatar.jpg
 bio: My research interests include urban computing and spatio-temporal data mining.
